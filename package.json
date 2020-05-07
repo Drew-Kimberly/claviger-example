@@ -1,0 +1,23 @@
+{
+  "name": "upkeep-example",
+  "version": "1.0.0",
+  "description": "An example repository integrated with Upkeep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drew-Kimberly/upkeep-example.git"
+  },
+  "author": "Drew Kimberly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drew-Kimberly/upkeep-example/issues"
+  },
+  "homepage": "https://github.com/Drew-Kimberly/upkeep-example#readme",
+  "dependencies": {
+    "express": "^3.1.0",
+    "react": "^0.10.0"
+  }
+}
