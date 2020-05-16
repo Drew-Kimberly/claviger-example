@@ -1,21 +1,21 @@
 {
-  "name": "upkeep-example",
+  "name": "claviger-example",
   "version": "1.0.0",
-  "description": "An example repository integrated with Upkeep",
+  "description": "An example repository integrated with Claviger",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Drew-Kimberly/upkeep-example.git"
+    "url": "git+https://github.com/Drew-Kimberly/claviger-example.git"
   },
   "author": "Drew Kimberly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Drew-Kimberly/upkeep-example/issues"
+    "url": "https://github.com/Drew-Kimberly/claviger-example/issues"
   },
-  "homepage": "https://github.com/Drew-Kimberly/upkeep-example#readme",
+  "homepage": "https://github.com/Drew-Kimberly/claviger-example#readme",
   "dependencies": {
     "express": "^3.1.0",
     "react": "^0.10.0"
