@@ -1,2 +1,2 @@
-# upkeep-example
-An example repository integrated with Upkeep
+# claviger-example
+An example repository integrated with Claviger
