@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Drew-Kimberly/claviger-example#readme",
   "dependencies": {
-    "express": "^3.1.0",
+    "express": "^3.11.0",
     "react": "^0.10.0"
   }
 }
