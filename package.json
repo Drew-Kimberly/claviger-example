@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Drew-Kimberly/claviger-example#readme",
   "dependencies": {
     "express": "^3.1.0",
-    "react": "^0.10.0"
+    "react": "^0.14.0"
   }
 }
